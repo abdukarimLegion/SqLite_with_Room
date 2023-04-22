@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">SqLite</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add</string>
 </resources>
